@@ -1,0 +1,39 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="800" viewBox="0 0 480 800" role="img" aria-labelledby="title desc">
+<title id="title">Lume — Hibisco e Framboesa</title><desc id="desc">Ilustração vetorial original de uma lata conceitual. Geometria, grafismos e iluminação desenhados localmente, não fotografia.</desc>
+<defs>
+<linearGradient id="metal" x1="0" x2="1"><stop stop-color="#68716b"/><stop offset=".08" stop-color="#e6e7da"/><stop offset=".22" stop-color="#fafcef"/><stop offset=".48" stop-color="#c2c8ba"/><stop offset=".7" stop-color="#edf0e4"/><stop offset=".9" stop-color="#919b8c"/><stop offset="1" stop-color="#4d594c"/></linearGradient>
+<linearGradient id="lid" x1="0" y1="0" x2=".7" y2="1"><stop stop-color="#f8f9eb"/><stop offset=".45" stop-color="#b0b9a8"/><stop offset=".6" stop-color="#f3f6e5"/><stop offset="1" stop-color="#7c8777"/></linearGradient>
+<linearGradient id="wrap" x1="0" x2="1"><stop stop-color="#142909" stop-opacity=".26"/><stop offset=".1" stop-color="#fff" stop-opacity=".02"/><stop offset=".25" stop-color="#fff" stop-opacity=".22"/><stop offset=".47" stop-color="#fff" stop-opacity="0"/><stop offset=".75" stop-color="#142909" stop-opacity=".02"/><stop offset="1" stop-color="#142909" stop-opacity=".3"/></linearGradient>
+<linearGradient id="glint" x1="0" x2="1"><stop stop-color="#fff" stop-opacity="0"/><stop offset=".5" stop-color="#fff" stop-opacity=".5"/><stop offset="1" stop-color="#fff" stop-opacity="0"/></linearGradient>
+<clipPath id="body"><path d="M107 118Q105 98 126 88H354Q376 98 373 118L382 175V696Q380 723 361 739Q240 767 119 739Q100 723 98 696V175Z"/></clipPath>
+</defs>
+<path d="M107 118Q105 98 126 88H354Q376 98 373 118L382 175V696Q380 723 361 739Q240 767 119 739Q100 723 98 696V175Z" fill="url(#metal)" stroke="#54634e" stroke-width="1.5"/>
+<g clip-path="url(#body)">
+<path d="M95 145Q240 177 385 145V697Q240 731 95 697Z" fill="#ef9ab4"/>
+<path d="M98 290C160 333 220 310 281 330S346 341 386 304V524C320 483 286 550 204 512S122 523 95 540Z" fill="#f9c5d3"/>
+<path d="M98 619C196 563 284 616 386 570V703H98Z" fill="#d96a8c"/>
+<g fill="#24281c" font-family="Arial,Helvetica,sans-serif" text-anchor="middle">
+<text x="239" y="255" font-size="91" letter-spacing="-8" font-weight="900">lume</text>
+<text x="240" y="284" font-size="12" letter-spacing="5" font-weight="700">KOMBUCHA</text>
+<text x="240" y="572" font-size="24" letter-spacing="-1" font-weight="900">HIBISCO</text>
+<text x="240" y="598" font-size="24" letter-spacing="-1" font-weight="900">E FRAMBOESA</text>
+<text x="240" y="644" font-size="9" letter-spacing="2" font-weight="700">EM OUTRA LUZ.</text>
+<text x="240" y="680" font-size="8" letter-spacing="1.5">PROJETO CONCEITUAL · 02</text>
+</g>
+<g transform="translate(230 430)" fill="#ac244f" stroke="#76253d" stroke-width="1.5"><path id="petal" d="M0 7C-78-3-96-68-59-76-21-85 8-45 0 7z"/><path d="M0 7C-78-3-96-68-59-76-21-85 8-45 0 7z" transform="rotate(72)"/><path d="M0 7C-78-3-96-68-59-76-21-85 8-45 0 7z" transform="rotate(144)"/><path d="M0 7C-78-3-96-68-59-76-21-85 8-45 0 7z" transform="rotate(216)"/><path d="M0 7C-78-3-96-68-59-76-21-85 8-45 0 7z" transform="rotate(288)"/><circle r="19" fill="#782e38"/><path d="M0 0 35-62" stroke="#f7bd5a" stroke-width="6"/><g fill="#f7bd5a" stroke="none"><circle cx="36" cy="-65" r="5"/><circle cx="29" cy="-62" r="4"/><circle cx="41" cy="-59" r="4"/></g></g><g transform="translate(292 489)" fill="#aa2853" stroke="#76253d" stroke-width="1.5"><circle cy="23" r="11"/><circle cx="-10" cy="10" r="12"/><circle cx="11" cy="10" r="12"/><circle cx="-19" cy="-3" r="12"/><circle cy="-4" r="12"/><circle cx="20" cy="-3" r="12"/><circle cx="-10" cy="-17" r="12"/><circle cx="11" cy="-17" r="12"/><path d="m-19-28 19 5 18-6-7 13-10-6-12 7z" fill="#51633a" stroke="none"/></g>
+<path d="M145 194h18m-9-9v18m-6-15 12 12m-12 0 12-12M322 541h18m-9-9v18m-6-15 12 12m-12 0 12-12" stroke="#24281c" stroke-width="2"/>
+<path d="M95 145Q240 177 385 145V697Q240 731 95 697Z" fill="url(#wrap)"/>
+<path d="M126 153Q138 157 158 160V713L126 707Z" fill="url(#glint)" opacity=".48"/>
+<path d="M105 181V689" stroke="#fff" stroke-width="3" opacity=".48"/>
+<path d="M373 177V692" stroke="#36442b" stroke-width="3" opacity=".25"/>
+</g>
+<ellipse cx="240" cy="91" rx="126" ry="37" fill="url(#lid)" stroke="#5c6855" stroke-width="3"/>
+<ellipse cx="240" cy="91" rx="115" ry="28" fill="none" stroke="#eef2e6" stroke-width="3"/>
+<ellipse cx="240" cy="91" rx="108" ry="24" fill="url(#metal)" stroke="#839079" stroke-width="1"/>
+<ellipse cx="240" cy="84" rx="28" ry="9" fill="#58644f"/>
+<path d="M220 81C218 72 261 72 262 81L260 103C259 113 220 113 220 103Z" fill="url(#lid)" stroke="#69785f" stroke-width="2"/>
+<ellipse cx="240" cy="86" rx="11" ry="4" fill="#69765e"/>
+<ellipse cx="240" cy="101" rx="10" ry="4" fill="#b8c2ac"/>
+<path d="M129 737Q240 765 353 737" fill="none" stroke="#59674f" stroke-width="6"/>
+<path d="M130 733Q240 759 350 733" fill="none" stroke="#f1f3e6" stroke-width="3"/>
+</svg>
